@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<!this is a comment>
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/junit/junit -->
+		
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
