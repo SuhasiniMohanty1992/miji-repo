@@ -5,6 +5,7 @@
 	<groupId>com.mijiexample</groupId>
 	<artifactId>test-repo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<!this is a comment>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
